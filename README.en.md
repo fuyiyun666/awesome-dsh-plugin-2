@@ -84,6 +84,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 - [dsh-blue/blue](https://github.com/dsh-blue/blue) - An interactive full-screen terminal UI for DeepSeek Harness: streaming Markdown transcripts, tool-call cards, an approval panel, session management, and hot theme switching — every component is a hot-pluggable plugin tree.
 - [fishxcode/dsh-plugin-deepseek-balance](https://github.com/fishxcode/dsh-plugin-deepseek-balance) - DeepSeek API balance, balance trend, and daily usage charts in DSH Web settings.
 - [FuqiangCraft/dsh-desktop](https://github.com/FuqiangCraft/dsh-desktop) - Adds desktop notifications, a multi-agent visualization canvas, and an optional screen-capture tool to DSH.
+- [gf691271/dsh-quote-reply](https://github.com/gf691271/dsh-quote-reply) - Claude Code style quote and reply: select text, answer it in a popover, collect the pairs as blocks above the composer, send them together.
 - [Ghost011118/dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) - DeepSeek account balance and session cost in the composer dock, with auto-fetched official pricing and peak/off-peak support.
 - [context-vista](https://github.com/GooodWei/context-vista) - Right-side floating panel with a live donut chart of context token usage and cost.
 - [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) - Per-session and daily API cost, budget with usage %, official balance, history dashboard, and one-click official price sync with peak/off-peak pricing.
