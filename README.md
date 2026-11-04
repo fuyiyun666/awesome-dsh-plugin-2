@@ -84,6 +84,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [dsh-blue/blue](https://github.com/dsh-blue/blue) — DeepSeek Harness 的交互式全屏终端 UI：流式 Markdown 转录、工具调用卡片、审批面板、会话管理、主题热切换——全部组件皆为可热插拔的插件树。
 - [fishxcode/dsh-plugin-deepseek-balance](https://github.com/fishxcode/dsh-plugin-deepseek-balance) — 在 DSH Web 设置中展示 DeepSeek API 余额、余额趋势与每日用量图表。
 - [FuqiangCraft/dsh-desktop](https://github.com/FuqiangCraft/dsh-desktop) — 为 DSH 提供桌面通知、多 Agent 可视化画布和可选的屏幕截图工具。
+- [gf691271/dsh-quote-reply](https://github.com/gf691271/dsh-quote-reply) — Claude Code 式引用回复：选中对话文字就地回复，问答变成输入框上方的方块，一次发出。
 - [Ghost011118/dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) — 输入框 dock 显示 DeepSeek 账户余额与会话花费，自动拉取官方定价，支持高峰/低谷计价。
 - [GooodWei/context-vista](https://github.com/GooodWei/context-vista) — 右侧悬浮面板，环形图实时展示上下文 token 用量与费用。
 - [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) — 会话与当日 API 费用统计、预算图框（已用%）、官方余额、历史看板，支持峰谷计价与官方价格一键同步。
